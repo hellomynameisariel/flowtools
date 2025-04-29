@@ -1,0 +1,25 @@
+# Ariel's Flow Tools
+
+Welcome to my toolbox of small, simple solutions for real-world workflow problems.
+
+I’m Ariel. I’m not a developer, but I like building lightweight tools that help me and my team stay on track, stay synced, and stay focused. Most of what’s here started with a simple thought: “this would be easier if I just made something.”
+
+These tools are simple, visual, and actually useful. No logins. No ads. No bloated dashboards. Just clean tools that work when you need them.
+
+## Why I built this
+
+Sometimes you don’t need a full-blown app. You just need a countdown, a synced timer, or a clear way to show where you are in the hour. So I started making these for my own team’s workflow, especially for remote collaboration and time-blocking.
+
+## What’s inside
+
+- **FiftyFlow** *(new!)*: A customizable Pomodoro-style break timer built for 50 minute flow states and a 10 minute structured recovery.
+- **FocusFrame**: A minimalist task and time block tracker. Great for focusing on one thing at a time.
+- **Timedrift**: A visual timer that stays in sync with real-world time blocks. Perfect for short sprints or timeboxing.
+- **Worklight**: A lightweight way to show team availability and energy levels without micromanaging.
+
+
+More tools will show up here in the future.
+
+## No distractions. Just flow.
+
+Thanks for visiting. If these help you, let me know!
