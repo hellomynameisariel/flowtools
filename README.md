@@ -13,16 +13,18 @@ Sometimes you don’t need a full-blown app — you just need a countdown, a syn
 ## What’s inside
 
 ### Timers
-- **FocusTime** *(new!)*: A clean, color-coded session timer made to complement Focusmate and keep you in sync.
-- **FiftyFlow**: A customizable Pomodoro-style break timer built for 50 minute flow states and 10 minute structured recovery.
-- **TimeDrift**: A visual timer that stays in sync with real-world time blocks. Perfect for short sprints or timeboxing.
+- **[FocusTime](https://hellomynameisariel.github.io/focustime/)** *(new!)*: A clean, color-coded session timer made to complement Focusmate and keep you in sync.
+- **[FiftyFlow](https://hellomynameisariel.github.io/fiftyflow/)**: A customizable Pomodoro-style break timer built for 50 minute flow states and 10 minute structured recovery.
+- **[TimeDrift](https://hellomynameisariel.github.io/timedrift/)**: A visual timer that stays in sync with real-world time blocks. Perfect for short sprints or timeboxing.
 
 ### Tools
-- **FocusFrame**: A minimalist task and time block tracker. Great for focusing on one thing at a time.
-- **WorkLight**: A lightweight way to show team availability and energy levels without micromanaging.
+- **[FocusFrame](https://hellomynameisariel.github.io/focusframe/focusframe.html)**: A minimalist task and time block tracker. Great for focusing on one thing at a time.
+- **[WorkLight](https://hellomynameisariel.github.io/worklight/)**: A lightweight way to show team availability and energy levels without micromanaging.
 
 More tools will show up here in the future.
 
+See them all at [**hellomynameisariel.github.io/flowtools/**](https://hellomynameisariel.github.io/flowtools/)
+
 ## No distractions. Just flow.
 
-Thanks for visiting. If these help you, let me know!
+Thanks for visiting!  
